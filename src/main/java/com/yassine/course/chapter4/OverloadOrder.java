@@ -1,4 +1,4 @@
-package com.yassine.course;
+package com.yassine.course.chapter4;
 
 public class OverloadOrder {
     public void fly(String s) {
