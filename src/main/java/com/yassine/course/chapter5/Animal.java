@@ -1,4 +1,4 @@
-package com.yassine.chapter5;
+package com.yassine.course.chapter5;
 
 public class Animal {
     private int age;
